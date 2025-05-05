@@ -1,5 +1,6 @@
 <?php
 
+declare(strict_types=1);
 
 use Magento\Customer\Model\Session as CustomerSession;
 use Mockery\Adapter\Phpunit\MockeryTestCase;

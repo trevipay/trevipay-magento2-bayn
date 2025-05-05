@@ -1,5 +1,6 @@
 <?php
 
+declare(strict_types=1);
 
 use Mockery\Adapter\Phpunit\MockeryTestCase;
 use Psr\Log\LoggerInterface;

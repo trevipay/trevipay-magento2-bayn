@@ -1,5 +1,6 @@
 <?php
 
+declare(strict_types=1);
 
 use Psr\Log\LoggerInterface;
 use TreviPay\TreviPayMagento\Model\Buyer\IsBuyerActive;
