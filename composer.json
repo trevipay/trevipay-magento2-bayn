@@ -1,5 +1,5 @@
 {
-  "name": "msts/trevipay-magento-bayn",
+  "name": "trevipay/trevipay-magento-bayn",
   "description": "TreviPay Magento 2 Module for Bayn",
   "license": "MPL-2.0",
   "type": "magento2-module",
